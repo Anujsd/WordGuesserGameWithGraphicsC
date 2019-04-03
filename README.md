@@ -17,6 +17,6 @@ All Files must be included in one folder for running WordGuesserGame.cpp correct
 otherwise program might crash.
 
 ## Preview
-To see how game looks like click here.
+If you want to see how game looks like follow [this](https://youtu.be/Dxo7co0q9zk) link.
 
 ## Thank you
