@@ -1,4 +1,4 @@
-# WordGuesserGameWithGraphicsC
+# Word Guesser Game With Graphics C
 This is simple game word guessing game you can play it in singleplayer mode or in multiplayer mode.
 here word with some hidden part is given, you have to guess that word if you correctly guessed then you win.
 otherwise you are given three chances to guess the correct word.after losing all three chances you lose the game.
